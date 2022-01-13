@@ -23,7 +23,6 @@ html {
 
 body {
     background-color: hsl(217, 54%, 11%);
-    width: 1440px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -43,6 +42,28 @@ body {
 .top-container img {
     width: 300px;
     border-radius: 10px;
+}
+
+.top-container .hover {
+    width: 300px;
+    height: 300px;
+    background-color: hsl(178, 100%, 50%, 0.5);
+    position: absolute;
+    top: 33px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+}
+
+.top-container .hover:hover {
+    opacity: 1;
+}
+
+.top-container .hover img {
+    height: 15%;
+    width: 15%;
 }
 
 .top-container p {
