@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://andyferrie.github.io/nft-preview-card-component-main/)
+- Solution URL: [https://andyferrie.github.io/nft-preview-card-component-main/](https://andyferrie.github.io/nft-preview-card-component-main/)
 
 ## My process
 ### Built with
